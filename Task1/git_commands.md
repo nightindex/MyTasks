@@ -7,7 +7,7 @@
 ### 7.git init  <br>
 ### 8.git add Task1/  <br>
 ### 9.git commit -m "Create Task1 folder"  <br>
-### 10.git remote add origin git@github.com:uvaysjon-coder/MyTasks.git  <br>
+### 10.git remote add origin git@github.com:$username/MyTasks.git  <br>
 ### 11.git branch -M main  <br>
 ### 12.git push -u origin main  <br>
 ### 13.git checkout -b dev  <br>
